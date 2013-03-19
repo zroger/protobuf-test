@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (3.2.13)
+      i18n (= 0.6.1)
+      multi_json (~> 1.0)
+    ffi (1.4.0)
+    i18n (0.6.1)
+    multi_json (1.7.1)
+    protobuf (2.7.7)
+      activesupport
+      ffi
+      multi_json
+      thor
+    thor (0.17.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  protobuf (= 2.7.7)
